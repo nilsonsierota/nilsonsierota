@@ -8,5 +8,7 @@ About me! I love coding and learn about features and tecnologies about my profes
 - 💬 Ask me about anything.
 - 📫 How to reach me: nilsoncv2@gmail.com
 
+ ❗ I'm a Developer looking for job Home Office 🏠 or in your company 🏢, anything is possibel right? Contact me to talk, give me a chance to prove. Feel free to ask anything. Thank you. 😁
+
 <!--
 **nilsonsierota/nilsonsierota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
