@@ -9,6 +9,5 @@ About me! I love coding and learn about features and tecnologies about my profes
 - 👯 I’m looking to collaborate on with projects
 - 💬 Ask me about anything.
 - 📫 How to reach me: nilsoncv2@gmail.com
-- 
 <!--
 **nilsonsierota/nilsonsierota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
