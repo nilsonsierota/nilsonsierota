@@ -4,7 +4,7 @@ I'm a Developer, anything is possibel right? Feel free to ask anything. Thank yo
 
 About me! I love coding and learn about features and tecnologies about my profession.
 
-- 🔭 I’m currently working on Delphi.
+- 🔭 I’m currently working on Delphi with FireDac, MySQL and FastReport.
 - 👯 I’m looking to collaborate on with projects
 - 💬 Ask me about anything.
 - 🌱 I’m currently learning and using in my projects
