@@ -2,12 +2,11 @@
 
 I'm a Developer, anything is possibel right? Feel free to ask anything. Thank you. 😁
 
-About me! I love coding and learn about features and tecnologies about my profession.
+I love to code, learn new technologies, improve techniques, learn new frameworks.
 
-- 🔭 I’m currently working on Delphi with FireDac, MySQL and FastReport.
-- 👯 I’m looking to collaborate on with projects
-- 💬 Ask me about anything.
-- 🌱 I’m currently learning and using in my projects
+- I’m currently working on Delphi with FireDac, MySQL and FastReport.
+- I’m looking to collaborate on with projects
+- I’m currently learning and using in my projects
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
