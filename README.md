@@ -21,7 +21,8 @@ I love to code, learn new technologies, improve techniques, learn new frameworks
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![image]([https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white](https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667))
+
+![image](https://th.bing.com/th/id/OIP.wUWtZynP4WOmKyYv2Bt8UQHaCP?w=282&h=106&c=7&r=0&o=5&pid=1.7)
 
 
 [![Meu Perfil Rocketseat](https://img.shields.io/badge/-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/nilson-sierota-1567062932)
