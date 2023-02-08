@@ -8,7 +8,7 @@ I love to code, learn new technologies, improve techniques, learn new frameworks
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [nilsoncv2@gmail.com](mailto:nilsoncv2@gmail.com)
-* 🧠  I'm using JavaScript, TypeScript, Node, Express, Prisma, React, React-Native, Styled-Components
+* 🧠  I'm using JavaScript, TypeScript, Node, Express, Prisma, React, React-Native, Styled-Components, NestJs
 
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
