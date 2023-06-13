@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is Nilson Sierota<br><br>Console.Log("Hello World");<br><br>I love to code, learn new technologies, improve techniques, learn new frameworks.<br><br>* 🌍  I'm based in Brazil<br>* ✉️  You can contact me at [nilsoncv2@gmail.com](mailto:nilsoncv2@gmail.com)<br>* 🧠  I'm using JavaScript, TypeScript, Node, Express, Prisma, React, React-Native, Styled-Components, NestJs
+Hi 👋 My name is Nilson Sierota<br><br>Console.Log("Hello World");<br><br>I love to code, learn new technologies, improve techniques, learn new frameworks.<br><br>* 🌍  I'm based in Brazil<br>* ✉️  You can contact me at [nilsoncv2@gmail.com](mailto:nilsoncv2@gmail.com)<br>* 🧠  I'm FullStack Developer using JavaScript, TypeScript, NodeJs, ExpressJs, Prisma, React, React-Native, Styled-Components, tailwindcss, NestJs, NextJs, Jest
 
 
 ## 🌐 Socials:
