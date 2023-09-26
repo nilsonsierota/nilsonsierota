@@ -22,6 +22,8 @@ Hi 👋 My name is Nilson Sierota<br><br>Console.Log("Hello World");<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nilsonsierota) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilsonsierotacorreia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilsonsierotacorreiadeveloper) 
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@919db40c-2a56-4d3c-a85f-3a118b4d2c70/1eb168e7-48d7-474a-a33f-6a8a987e4adf.png" /></a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonsierota&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=nilsonsierota&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
