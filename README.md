@@ -3,6 +3,7 @@ Hi 👋 My name is Nilson Sierota<br><br>Console.Log("Hello World");<br>
 <br>I love to code, learn new technologies, improve techniques, learn new things.<br><br>* 
 🌍  I'm based in Brazil<br>* 
 ✉️  You can contact me at [nilsoncv2@gmail.com](mailto:nilsoncv2@gmail.com)<br>* 
+📞  Or message me at ([+5566999893822](http://api.whatsapp.com/send?1=pt_BR&phone=5566999893822))<br>* 
 🧠  I'm Backend Developer using:
   - C#
   - JavaScript
